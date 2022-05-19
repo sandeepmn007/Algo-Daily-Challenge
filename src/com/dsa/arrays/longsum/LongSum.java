@@ -15,6 +15,7 @@ public class LongSum {
             sum += a[i];
         }
         System.out.println("The sum of array is "+ sum);
+
     }
 
 }
